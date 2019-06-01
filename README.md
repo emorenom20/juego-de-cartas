@@ -4,8 +4,7 @@ Por favor, lea "instrucciones.txt"
 
 Juego para la asignatura Señales Aleatorias.
 
-Demostración:
-https://emorenom20.github.io/juego-de-cartas/
+Demostración: **[JUEGA EN EL NAVEGADOR](https://emorenom20.github.io/juego-de-cartas/) **
 
 Please, read "instrucciones.txt"
 
